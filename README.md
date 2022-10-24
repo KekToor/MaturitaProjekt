@@ -7,6 +7,9 @@ Mým cílem je vyvtoření aplikace s databází, jejíž účelem bude vytvoře
 Mým plánem je využít kombinace ***backendu*** s využitím **Node.js** a **RESTful API**, do kterého integruji *SQL*, případně *NoSQL databázi* a ***frontendu*** s využitím knihovny **React.js**; k dekoraci stránek bych se pak chtěl naučit *CSS framework* **Tailwind**.
 ## **Harmonogram**
 **Září:** Výběr technologií
+
 **Říjen:**
+
 **Listopad:**
+
 **Prosinec:**
