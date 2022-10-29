@@ -1,0 +1,24 @@
+{
+  "name": "maturitaprojekt",
+  "version": "1.0.0",
+  "description": "Mnohokrát se každému z vás jistě stalo, že jste se chtěli vrátit k tématu/příkladu, který byste si chtěli připomenout, případně se jej naučit. Člověk je však tvorem líným a co zrovna nepotřebuje, založí, případně na to zapomene. Takovéto informace pak bývají složité nalézt - z mé zkušenosti tvorby zkušebních kódů a vypracovávání příkladů do matematiky vím, že jakmile něco dokončím, přesunu to do náhodné složky na počítači a v ní tyto věci upadnou do zapomenutí. Proto jsem se rozhodl, že vyvinu vlastní výukovou aplikaci, která by nám všem mohla pomoct zjednodušit přístup k informacím.\r ## **Jednou a nikdy více!**\r Mým cílem je vyvtoření aplikace s databází, jejíž účelem bude vytvoření rozšiřitelné kolekce snadno srozumitelných a dohledatelných návodů - tutoriálů, roztříděných do skupin dle oboru, obtížnosti, u programování například jazyku, nebo také autora návodu! Návody bude také možné hodnotit, což jejich tvůrci poskytne zpětnou vazbu, která dále pomůže zvýšit jejich kvalitu.\r ## **Jaké technologie využiju?**\r Mým plánem je využít kombinace ***backendu*** s využitím **Node.js** a **RESTful API**, do kterého integruji *SQL*, případně *NoSQL databázi* a ***frontendu*** s využitím knihovny **React.js**; k dekoraci stránek bych se pak chtěl naučit *CSS framework* **Tailwind**.\r ## **Harmonogram**\r **Září:** Výběr technologií",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KekToor/MaturitaProjekt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KekToor/MaturitaProjekt/issues"
+  },
+  "homepage": "https://github.com/KekToor/MaturitaProjekt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "proxy": "http://localhost:5000"
+}
